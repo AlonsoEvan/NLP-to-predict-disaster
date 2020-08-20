@@ -1,9 +1,7 @@
-# NLP-to-predict-disaster
-Project to enhance my skills in NLP, ML, DL and development web with Flask
 
 
 # NLP-with-disaster-tweets
-Kaggle project
+Project to enhance my skills in NLP, ML, DL and development web with Flask
 
 Version 2.0 of this project.
 
