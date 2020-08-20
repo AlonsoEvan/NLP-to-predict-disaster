@@ -87,17 +87,13 @@ In this competition, we’re challenged to build a machine learning model that p
 
 
 ## Web develoment :
-<details>
 <a name="Web"></a>
-<summary>Show/Hide</summary>
-<br>
   
 In order to have a concret and prompt outcome, I created a website to ensure that our model is useable by everyone.
 
 I will share in our Github all the necessary files required fro creating it (app.py, templates, home and so on..)
 
 There is the website where my model has been implemented : https://ml-deployment-evan.herokuapp.com/
-</details>
 
 ## Future Development
 
